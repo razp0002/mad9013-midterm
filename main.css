@@ -145,6 +145,7 @@ img{
         line-height: 2;
         text-align: center;
         padding: 1rem;
+        background: #5774CC;
     }
     h2, h3 {
         font-size: 2rem;
@@ -164,5 +165,12 @@ img{
         width: 25%;
         padding-right: 20px;
         padding-left: 0px;
+    }
+    img {
+        position: absolute;
+        top: 17em;
+        left: 0px;
+        width: 25%;
+        padding-right: 1rem;
     }
 }
